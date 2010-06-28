@@ -17,13 +17,13 @@
   <name>JBossOSGi JDBC - HSQLDB iTests</name>
 
   <groupId>org.jboss.osgi.jdbc</groupId>
-  <artifactId>jboss-osgi-hsqldb-itest</artifactId>
+  <artifactId>jboss-osgi-jdbc-hsqldb-itest</artifactId>
   <packaging>jar</packaging>
 
   <!-- Parent -->
   <parent>
     <groupId>org.jboss.osgi.jdbc</groupId>
-    <artifactId>jboss-osgi-hsqldb-parent</artifactId>
+    <artifactId>jboss-osgi-jdbc-hsqldb-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
 

@@ -17,13 +17,13 @@
   <name>JBossOSGi JDBC - HSQLDB Bundle</name>
 
   <groupId>org.jboss.osgi.jdbc</groupId>
-  <artifactId>jboss-osgi-hsqldb</artifactId>
+  <artifactId>jboss-osgi-jdbc-hsqldb</artifactId>
   <packaging>bundle</packaging>
 
   <!-- Parent -->
   <parent>
     <groupId>org.jboss.osgi.jdbc</groupId>
-    <artifactId>jboss-osgi-hsqldb-parent</artifactId>
+    <artifactId>jboss-osgi-jdbc-hsqldb-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
 
